@@ -1,0 +1,7 @@
+geopandas>=0.14
+psycopg2-binary>=2.9
+sqlalchemy>=2.0
+requests>=2.31
+shapely>=2.0
+osmnx>=1.9
+pandas>=2.0
